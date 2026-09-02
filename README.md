@@ -1,1 +1,0 @@
-# enterprise-software-managment
